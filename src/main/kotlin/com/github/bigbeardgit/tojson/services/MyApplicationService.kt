@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bigbeardgit.tojson.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bigbeardgit.tojson.MyBundle
 
 class MyApplicationService {
 
